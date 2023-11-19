@@ -171,7 +171,7 @@ python server.py
 
 Your Name - [Saikat Das](https://www.linkedin.com/in/saikat-das-software-ml/) - 2022pds0025@iitjammu.ac.in
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [GitHub-Link](https://github.com/Saikat2022Das/Log-Ingestor-and-Query-Interface)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
